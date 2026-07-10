@@ -77,6 +77,6 @@ while opcion_menu != 6:
                     print("Error: Tiene que ingresar un numero")
         case 3:
             #actualizar precio
-            
+            print("HOLA")
         case 6:
             print("Terminando programa")
